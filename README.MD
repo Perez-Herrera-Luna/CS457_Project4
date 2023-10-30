@@ -1,6 +1,6 @@
 # CS 457: Database Management Systems
 
-## Programming Assignment 3: Table Joins
+## Programming Assignment 4
 
 ### Luna Perez-Herrera
 
